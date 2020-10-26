@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.1 常量与变量/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1. Hello Java/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.2 基本数据类型/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1. Hello Java/out" />
     </content>
     <orderEntry type="inheritedJdk" />
