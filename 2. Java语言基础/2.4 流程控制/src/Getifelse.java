@@ -1,0 +1,15 @@
+public class Getifelse {
+    public static void main(String[] args) {
+        int math = 95, english = 56;
+        if (math > 60) {
+            System.out.println("数学及格了");
+        } else {
+            System.out.println("数学未及格");
+        }
+        if (english > 60) {
+            System.out.println("英语及格了");
+        } else {
+            System.out.println("英语未及格");
+        }
+    }
+}

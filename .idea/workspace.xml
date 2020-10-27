@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="1" />
+    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/2.3 一些运算符.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,26 +43,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/template/1.Java语言基础/Test4运算符的使用" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603730196569</updated>
-      <workItem from="1603730197682" duration="2495000" />
+      <workItem from="1603730197682" duration="2663000" />
+      <workItem from="1603808068137" duration="1400000" />
     </task>
     <servers />
   </component>
@@ -81,19 +78,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603732871896">
+    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603808414927">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603732871896" />
+    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603808414927" />
     <state x="560" y="8" key="SettingsEditor" timestamp="1603732990294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603732990294" />
-    <state x="292" y="58" key="new project wizard" timestamp="1603732873319">
+    <state x="292" y="58" key="new project wizard" timestamp="1603808416986">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="58" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1603732873319" />
+    <state x="292" y="58" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1603808416986" />
   </component>
 </project>
