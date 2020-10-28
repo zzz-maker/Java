@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.3 一些运算符/2.3 一些运算符.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Java语言基础/2.4 流程控制/src/GetSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/2. Java语言基础/2.4 流程控制/src/GetSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603730196569</updated>
       <workItem from="1603730197682" duration="2663000" />
-      <workItem from="1603808068137" duration="1400000" />
+      <workItem from="1603808068137" duration="5913000" />
     </task>
     <servers />
   </component>
@@ -81,17 +92,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603808414927">
+    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603902955353">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603808414927" />
-    <state x="560" y="8" key="SettingsEditor" timestamp="1603732990294">
+    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603902955353" />
+    <state x="560" y="8" key="SettingsEditor" timestamp="1603903782603">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603732990294" />
-    <state x="292" y="58" key="new project wizard" timestamp="1603808416986">
+    <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603903782603" />
+    <state x="292" y="58" key="new project wizard" timestamp="1603902958024">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="58" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1603808416986" />
+    <state x="292" y="58" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1603902958024" />
   </component>
 </project>

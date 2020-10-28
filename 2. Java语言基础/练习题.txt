@@ -1,0 +1,221 @@
+（1）下列哪个选项是合法的标识符？                                        ------>  D
+	A）123  B）_name  C）class  D）1first
+
+（2）下列的哪个选项可以正确用以表示八进制值8？ 							 ------>  D
+	A）0x8  B）0x10  C）08  D）010
+	
+（3）下列的哪个赋值语句是不正确的？                                      ------>  A
+	A）float f = 11.1;  B）double d = 5.3E12;  C）float  d = 3.14f ;  D）double  f=11.1E10f;
+	
+	
+（4）下列的哪个赋值语句是正确的？										 ------>  A 、 D
+	A）char a=12;  B）int a=12.0;  C）int a=12.0f;  D）int a=（int）12.0;
+	
+（5）给出下列的代码，哪行在编译时可能会有错误？ 						 ------>  C
+	①  public void modify（）{ 
+	②    int i, j, k; 
+	③    i = 100; 
+	④    while （ i > 0 ）{ 
+	⑤      j = i * 2; 
+	⑥      System.out.println （" The value of j is " + j ）; 
+	⑦      k = k + 1; 
+	⑧    }
+	⑨  }
+	A）line 4  B）line 6  C）line 7  D）line 8
+
+（6）给出下列代码，则数组初始化中哪项是不正确的？  						------->  A 
+	byte［］ array1,array2［］;
+	byte array3［］［］;
+	byte ［］［］ array4;
+	A）array2 = array1  B）array2=array3   C）array2=array4  D）array3=array4
+	
+（7）在Java源文件中什么类最多只能有一个，其他类的个数不限？ 			------->  A
+	A）public     B）private     C）protected       D）没有这种类
+
+（8）下列哪个选项是short型数据的取值范围？  							------->  B
+	A）-128 ～ +127    B）-32768～ +32767   
+	C）-2147483648～ +2417483647       D）-3.40282347E38 ～ +3.40282347E38
+
+（9）下列哪项是将一个十六进制值赋值给一个long型变量？  					------->  D
+	A）long number = 123L;       B）long number = 0123;
+	C）long number = 0123L;      D）long number = 0x123L;
+
+（10）下列程序段执行后的输出结果为   									------->  B
+	int  x=3； inty=10；
+	System.out.println（y%x）;
+	A）0       B）1          C）2           D）3
+
+（11）下列的哪个程序段可能导致错误？  									------->   B
+	A）String s = " hello";   String t = " good ";   String k = s + t;
+	B）String s = " hello";   String t;   t = s［3］ + "one";
+	C）String s = " hello";   String standard = s.toUpperCase（）;
+	D）String s = "hello";    String t = s + "good"; 
+	
+（12）有如下程序段   													------->   D
+	if （x>0）{ System.out.println（"first"）; }
+	else if （x>-4）{ System.out.println（"second"）; }
+	else { System.out.println（"third"）; }
+	x的取值在什么范围内时，将打印出字符串"second"？
+	A）x > 0      B）x > -4     C）x <= -4    D）x <= 0 & & x > -4
+	
+（13）执行完语句int ［ ］x = new int［25］；后，则下列哪项说法是正确的？ ------->  A
+	A）x［24］值为0    B）x［24］值未定义  C）x［25］值为0   D）x［0］值为空
+	
+（14）下列有关Java语言的叙述中，正确的是								------->   B
+	A、Java是不区分大小写的B、源文件名与public权限的类名必须相同
+	C、源文件名其扩展名为.jarD、源文件中public类的数目不限
+
+（15） 在Java中，负责对字节代码解释执行的是（）。字节就是class文件		------->   B
+	A、垃圾回收器B、虚拟机C、编译器D、多线程机制
+	
+（16） 编译Javaapplication源程序文件将产生相应的字节码文件，这些字节文件的扩展名为（）   ------->   B
+	A、.java B、.class C、.html D、.exe
+	
+（17）main方法是Java Application程序执行的入口，含有main方法的类是      -------->   B
+主类，且main方法的定义是唯一的，以下哪项是正确的（）
+	A、publicstaticvoidmain（）
+	B、publicstaticvoidmain(Stringargs[])
+	C、publicstaticint main(Stringarg[])
+	D、publicvoidmain(String arg[])
+	
+（18）以下程序的运行结果为（）											-------->   D
+	publicclassIfTest{
+		publicstaticvoidmain(Stringargs[]){
+			int x=3;
+			{
+				int y=1;
+			}
+			if(x==y)
+				System.out.println(“equal”);
+			else
+				System.out.println(“NotEqual”);
+		}
+	}
+	A、Notequal B、Equal C、无输出 D、编译出错，找不到y
+	
+（19）按照Java的标识符的行业命名规范，下列分别表示一个类和一个方法的	-------->    B
+标识符比较合适的是（）
+	A、Helloworld,GetSwimmingScore
+	B、HelloWorld,getSwimmingScore
+	C、helloworld,getswimmingscore 
+	D、helloWorld,Getswimmingscore
+	
+（20）下列表达式正确的是：												-------->    C
+    A、byte b = 128;
+    B、boolean flag = null;
+    C、long a = 2147483648L;
+    D、float f = 0.9239;//0.9293f
+	
+（21）语句System.out.println(1+2+"java"+3+4)的输出结果是：				-------->    A
+    A、3java34
+    B、12java34
+     C、3java7
+    D、12java7
+	
+（22）语句System.out.println(1+2+"java"+3+4)的输出结果是：				--------->   A
+    A、3java34
+    B、12java34
+     C、3java7
+    D、12java7
+	
+（23）执行完以下代码int[] x = new int[25];后，下列各项正确的是：		--------->   A
+    A、x[24]为0
+    B、x[24]未定义
+    C、x[25]为0
+    D、x[0]为空   
+	
+（24）下列代码出错的行是：												--------->   C
+    1)public void modify(){
+	2)	int i,j,k;
+	3)	i=100;
+	4)	while(i>0){
+	5)		j=i*2;
+	6)		System.out.println("the value of j is:"+j);
+	7)		k=k+1;
+	8)		i--;
+	9)	}
+	10)}
+    A、4
+    B、6
+    C、7
+    D、8 
+	
+（25）char类型的整数范围是：											--------->    B
+    A、0...32767
+    B、0...65535
+    C、-256...255
+    D、-32768...32767
+	
+（26）下列代码运行结果是:												--------->    D
+   public class SwitchTest {
+	public static void main(String[] args) {
+         System.out.println("value="+switchlt(4));
+	}
+	public static int switchlt(int x){
+		int j=1;
+		switch(x){
+		   case 1:j++;
+		   case 2:j++;
+		   case 3:j++;
+		   case 4:j++;
+		   case 5:j++;
+		   default:j++;
+		}
+		return j+x;
+	}
+}
+    A、3
+    B、4
+    C、5
+    D、6
+    E、7
+    F、8
+	
+（27）下列不属于java标识符的是：									--------->   E
+	A、HelloWorld
+	B、_HelloWorld
+	C、$HelloWorld
+	D、HelloWorld3
+	E、3HelloWorld
+	
+（28）完成代码计算10的阶乘并输出，正确代码是：							------------>  A
+    public static void main(String[] args) {
+        long result = 1;
+        for(int i=2;i<=10;i++){
+        	<填入代码>
+        }
+        System.out.println("result="+result);
+	}
+    A、result=result*i;
+    B、result=i*i;
+    C、result=i*(i+1);
+    D、result=i*(i-1);
+	
+（29）下列正确的是：													---------->   D
+    1)public class Test{
+	2)    public static void main(String[] args){
+	3)         byte b = 100;
+	4)         int i = b;
+	5)		   int a = 2000;
+	6)		   b = a;
+	7)		   System.out.println(b);
+	      }
+	}
+    A、b的值为100
+    B、b的值为2000
+    C、4行出错
+    D、6行出错
+	
+（30）以下代码输出结果是：												-------->   D
+    public class ObRef {
+	 public static void main(String[] args){
+		int x=1,y=1,z=1;
+		if(x--==1&&y++==1||z++==1){
+			System.out.println("x="+x+",y="+y+",z="+z);
+		}
+	 }
+}
+    A、x=0,y=2,z=1
+    B、x=1,y=2,z=1
+    C、x=0,y=1,z=1
+	D、x=0,y=2,z=2  
