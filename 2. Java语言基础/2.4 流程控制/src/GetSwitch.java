@@ -14,6 +14,5 @@ public class GetSwitch {
             default:
                 System.out.println("I don't know");
         }
-        int  = 2000;
     }
 }
