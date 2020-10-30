@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArraySelectedOrder.java" afterDir="false" />
+    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="2.6">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArrayBubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArraySelectedOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArraySelectedSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +57,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="ArraySelectedOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySelectedOrder" />
+  <component name="RunManager" selected="Application.ArrayBubbleSort">
+    <configuration name="ArrayBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBubbleSort" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySelectedSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySelectedSort" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,7 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySelectedOrder" />
+        <item itemvalue="Application.ArrayBubbleSort" />
+        <item itemvalue="Application.ArraySelectedSort" />
       </list>
     </recent_temporary>
   </component>
@@ -91,8 +101,16 @@
       <option name="presentableId" value="Default" />
       <updated>1603730196569</updated>
       <workItem from="1603730197682" duration="2663000" />
-      <workItem from="1603808068137" duration="9644000" />
+      <workItem from="1603808068137" duration="10296000" />
     </task>
+    <task id="LOCAL-00001" summary="2.6">
+      <created>1604070339021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604070339021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.6" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603984219516">
       <screen x="0" y="0" width="1600" height="860" />
@@ -119,6 +141,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603987820260" />
+    <state x="784" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604070345727">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="153" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1604070345727" />
     <state x="292" y="58" key="new project wizard" timestamp="1603984221260">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

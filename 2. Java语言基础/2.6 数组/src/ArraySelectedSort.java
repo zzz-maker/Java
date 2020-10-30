@@ -4,7 +4,7 @@
  * @author zhangyj
  * @version 1.0.0 2020-10-30
  */
-public class ArraySelectedOrder {
+public class ArraySelectedSort {
     public static void main(String[] args) {
         int[] arr = {4, 2, 1, 3, 7};
         System.out.println("最大值为" + getMax(arr));
