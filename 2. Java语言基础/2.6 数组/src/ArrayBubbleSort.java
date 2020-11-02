@@ -7,6 +7,7 @@ public class ArrayBubbleSort {
     public static void main(String[] args) {
         int[] arr = new int[] {5, 3, 7, 9, 1};
         sort(arr);
+        // ！！ i为临时变量，不能改变实际数组元素的值
         for (int i : arr) {
             System.out.println(i);
         }

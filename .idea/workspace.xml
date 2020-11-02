@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="2.6">
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArraySelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArrayVariableParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.1 初见杀之构造器/src/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.1 初见杀之构造器/src/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.1 初见杀之构造器/类与对象.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArrayBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/2. Java语言基础/2.6 数组/src/ArrayBubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603730196569</updated>
       <workItem from="1603730197682" duration="2663000" />
-      <workItem from="1603808068137" duration="16033000" />
+      <workItem from="1603808068137" duration="19018000" />
     </task>
     <task id="LOCAL-00001" summary="2.6">
       <created>1604070339021</created>
@@ -140,10 +141,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1603984219516">
+    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1604307021357">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603984219516" />
+    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604307021357" />
     <state width="1340" height="205" key="GridCell.Tab.0.bottom" timestamp="1604071023436">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -168,10 +169,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="784" y="153" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1604070345727" />
-    <state x="292" y="58" key="new project wizard" timestamp="1603984221260">
+    <state x="349" y="63" key="new project wizard" timestamp="1604307038347">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="58" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1603984221260" />
+    <state x="349" y="63" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604307038347" />
     <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604152368395">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
