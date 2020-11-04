@@ -19,7 +19,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="2.6" />
+    <list default="true" id="f92ba25f-fbb6-4ad3-9689-dd53838c76d0" name="Default Changelist" comment="2.6">
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/overide/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/overide/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/overide/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/overide/OverideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/test/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/test/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/test/superDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/类的继承.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/illustration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/src/com/test1/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/src/com/test1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/src/com/test1/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/src/com/test1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/src/com/test1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. 面向对象/3.4 类的三个特性之多态/多态.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/student/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/3. 面向对象/3.3 类的三个特性之继承/src/student/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ArrayBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/ArrayBubbleSort.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -50,9 +71,10 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArrayBubbleSort">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="ArrayBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayBubbleSort" />
       <module name="Java" />
@@ -67,21 +89,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test1.Demo" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ArrayBubbleSort" />
         <item itemvalue="Application.ArraySelectedSort" />
       </list>
@@ -97,6 +131,7 @@
       <updated>1603730196569</updated>
       <workItem from="1603730197682" duration="2663000" />
       <workItem from="1603808068137" duration="20098000" />
+      <workItem from="1604479748214" duration="6833000" />
     </task>
     <task id="LOCAL-00001" summary="2.6">
       <created>1604070339021</created>
@@ -135,38 +170,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="2.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1604310361778">
+    <state x="939" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604481275743">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604310361778" />
-    <state width="1340" height="205" key="GridCell.Tab.0.bottom" timestamp="1604395673411">
+    <state x="939" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1604481275743" />
+    <state x="697" y="189" key="FileChooserDialogImpl" timestamp="1604483015918">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="205" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604395673411" />
-    <state width="1340" height="205" key="GridCell.Tab.0.center" timestamp="1604395673411">
+    <state x="697" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604483015918" />
+    <state width="754" height="221" key="GridCell.Tab.0.bottom" timestamp="1604484372718">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="205" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604395673411" />
-    <state width="1340" height="205" key="GridCell.Tab.0.left" timestamp="1604395673411">
+    <state width="754" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604484372718" />
+    <state width="754" height="221" key="GridCell.Tab.0.center" timestamp="1604484372717">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="205" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604395673411" />
-    <state width="1340" height="205" key="GridCell.Tab.0.right" timestamp="1604395673411">
+    <state width="754" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604484372717" />
+    <state width="754" height="221" key="GridCell.Tab.0.left" timestamp="1604484372717">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="205" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604395673411" />
-    <state x="560" y="8" key="SettingsEditor" timestamp="1603987820260">
+    <state width="754" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604484372717" />
+    <state width="754" height="221" key="GridCell.Tab.0.right" timestamp="1604484372718">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603987820260" />
+    <state width="754" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604484372718" />
+    <state x="560" y="8" key="SettingsEditor" timestamp="1604483436027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1604483436027" />
     <state x="784" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604070345727">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="784" y="153" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1604070345727" />
-    <state x="349" y="63" key="new project wizard" timestamp="1604310375968">
+    <state x="349" y="63" key="new project wizard" timestamp="1604483021443">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="349" y="63" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604310375968" />
+    <state x="349" y="63" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604483021443" />
     <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604152368395">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

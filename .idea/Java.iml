@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.4 流程控制/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.5 方法及重载/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.6 数组/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.3 类的三个特性之继承/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.4 类的三个特性之多态/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1. Hello Java/out" />
     </content>
     <orderEntry type="inheritedJdk" />
