@@ -12,6 +12,12 @@
       <sourceFolder url="file://$MODULE_DIR$/2. Java语言基础/2.6 数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.3 类的三个特性之继承/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.4 类的三个特性之多态/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.5 各种常见的类/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.6 抽象类/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.7 接口/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.8 简单工厂与适配器/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/3.9 枚举类/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 面向对象/TEST/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1. Hello Java/out" />
     </content>
     <orderEntry type="inheritedJdk" />
